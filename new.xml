@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdntest category="QA">
+	<firstname>Dmitry</firstname>
+	<lastname>Romanushkov</lastname>
+	<age>27</age>
+	<numberOfPets>1</numberOfPets>
+	<futureDesiredSalary>2000</futureDesiredSalary>
+</rdntest>
