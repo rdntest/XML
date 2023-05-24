@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdntest>
+	<skill>Software testing theory</skill>
+	<skill>Test-design techniques</skill>
+	<skill>Working with test documentation</skill>
+	<skill>Client-server architecture</skill>
+	<skill>JSON and XML structure</skill>
+	<skill>API testing via Postman</skill>
+	<skill>Devtools practice</skill>
+	<skill>Git and GitBash practice</skill>
+	<skill>Payload testing via Jmeter</skill>
+	<skill>Mobile testing</skill>
+	<skill>SQL basics</skill>
+	<skill>Python basics</skill>	
+</rdntest>
