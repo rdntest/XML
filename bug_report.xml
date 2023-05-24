@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdntest>
+  <id>1</id>
+  <severity>minor</severity>
+  <priority>low</priority>
+  <environment>
+    <value>Windows 10 home, Chrome 112</value>
+    <value>iPhone XR, IOS 16.5/<value>
+  </enviroment>
+  <title>The text hasn't been translated to EN on the 'About us' page</title>
+  <stepsToReproduce>
+    <step1>Navigate to site.com</step1>
+    <step2>Click menu item 'About us</step2>
+    <step3>Select EN language</step3>
+  </stepsToReproduce>
+  <actualResult>The text has been translated to EN</actualResult>
+  <expectedResult>The text hasn't been translated to EN</expectedResult>
+  <attachments xlink:type="simple" xlink:href="https://urltothevideo.com">link</attachments>
+  <author>Poor tester</author>
+</rdntest>
